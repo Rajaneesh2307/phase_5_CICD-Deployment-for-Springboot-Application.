@@ -1,6 +1,7 @@
-# phase_5_CICD-Deployment-for-Springboot-Application.
+# phase_5_CI-CD-Deployment-for-Springboot-Application.
 CI/CD Deployment for Springboot Application
-Project Objective: 
+
+ Project Objective: 
 
 As a Full Stack Developer, you have to build a CI/CD pipeline to demonstrate continuous deployment and host the application on AWS EC2 instance.
 
